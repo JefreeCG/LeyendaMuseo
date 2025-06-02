@@ -1,2 +1,2 @@
-# LeyendeMuseo
+# LeyendaMuseo
 Leyenda Museo Victoriano Nieves
