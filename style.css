@@ -31,6 +31,9 @@ header h1 {
   color: #ff9800;
 }
 
+.legend-images h2 {
+  margin-bottom: 1.5rem;
+
 .legend-text p {
   line-height: 1.6;
   margin-bottom: 1rem;
@@ -45,7 +48,6 @@ header h1 {
 }
 
 .legend-images img {
-  margin-bottom: 1rem;
   width: 60%;
   max-width: 400px;
   border-radius: 10px;
