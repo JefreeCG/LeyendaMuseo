@@ -48,14 +48,6 @@ header h1 {
   margin-bottom: 1rem;
 }
 
-.legend-images {
-  display: flex;
-  flex-wrap: column;
-  justify-content: center;
-  gap: 1rem;
-  margin: 2rem 0;
-}
-
 .legend-images img {
   width: 60%;
   max-width: 400px;
