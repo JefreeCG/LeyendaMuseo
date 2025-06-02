@@ -3,11 +3,11 @@ body {
   margin: 0;
   padding: 0;
   background-color: #0e1e18ee;
-  color: #faf7e3;
+  color: #0e1e18ee;
 }
 
 header {
-  background-color: #06141f;
+  background-color: #e0e0e0;
   color: #faf7e3;
   padding: 2rem;
   text-align: center;
@@ -66,7 +66,7 @@ header h1 {
 }
 
 footer {
-  background-color: #1f1f1f;
+  background-color: #e0e0e0;
   color: #faf7e3;
   text-align: center;
   padding: 1rem;
