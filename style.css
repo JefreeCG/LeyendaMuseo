@@ -32,7 +32,16 @@ header h1 {
 }
 
 .legend-images h2 {
-  margin-bottom: 1.5rem;
+  color: #bb86fc;
+  margin-bottom: 1.5rem; /* esto genera el salto */
+}
+
+.legend-images .image-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
 
 .legend-text p {
   line-height: 1.6;
