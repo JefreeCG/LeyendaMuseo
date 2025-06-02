@@ -29,7 +29,6 @@ header h1 {
 .legend-images h2,
 .legend-video h2 {
   color: #ff9800;
-  text-align: center;
 }
 
 .legend-images h2 {
@@ -63,7 +62,7 @@ header h1 {
 
 .legend-video video {
   border-radius: 10px;
-  box-shadow: 0 0 20px rgba(187, 134, 252, 0.3);
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
 }
 
 footer {
