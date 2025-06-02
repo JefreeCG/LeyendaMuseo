@@ -38,14 +38,14 @@ header h1 {
 
 .legend-images {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: column;
   justify-content: center;
   gap: 1rem;
   margin: 2rem 0;
 }
 
 .legend-images img {
-  width: 100%;
+  width: 60%;
   max-width: 400px;
   border-radius: 10px;
   box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
