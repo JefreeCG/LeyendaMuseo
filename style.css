@@ -37,6 +37,7 @@ header h1 {
 }
 
 .legend-images {
+  margin-bottom: 1rem;
   display: flex;
   flex-wrap: column;
   justify-content: center;
