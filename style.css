@@ -8,7 +8,7 @@ body {
 
 header {
   background-color: #e0e0e0;
-  color: #faf7e3;
+  color: #e0e0e0;
   padding: 2rem;
   text-align: center;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
@@ -67,7 +67,7 @@ header h1 {
 
 footer {
   background-color: #e0e0e0;
-  color: #faf7e3;
+  color: #e0e0e0;
   text-align: center;
   padding: 1rem;
   margin-top: 3rem;
